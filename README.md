@@ -11,7 +11,7 @@
 ### 👤 About me
 
 - 🚀 Building my path in Software Development — backend focus, long-term vision
-- 🌱 Currently learning: **Git & GitHub** → JavaScript → Node.js → TypeScript
+- 🌱 Currently learning: **Linux** → JavaScript → Node.js → TypeScript
 - 🎯 Goal: Backend Engineer → Senior → CTO 
 - 🎓 FIAP Software Engineering — **starting Feb/2027**
 - 📖 Studying English daily — **A1 → B2**
