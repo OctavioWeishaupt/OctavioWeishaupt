@@ -11,8 +11,8 @@
 ### 👤 About me
 
 - 🚀 Building my path in Software Development — backend focus, long-term vision
-- 🌱 Currently learning: **Linux** → JavaScript → Node.js → TypeScript
-- 🎯 Goal: Backend Engineer → Senior → CTO 
+- 🌱 Currently learning: **JavaScript** → Node.js → TypeScript
+- 🎯 Goal: Backend Engineer → Senior → CTO
 - 🎓 FIAP Software Engineering — **starting Feb/2027**
 - 📖 Studying English daily — **A1 → B2**
 - 🎸 Guitar player when I'm not studying
@@ -26,6 +26,7 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 **Learning next**
@@ -63,8 +64,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/octavio-weishaupt)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/octavio.weishaupt)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/octavio-weishaupt-0486ab367)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SEU-INSTAGRAM-AQUI)
 
 </div>
 
