@@ -11,9 +11,9 @@
 ### 👤 About me
 
 - 🚀 Building my path in Software Development — backend focus, long-term vision
-- 🌱 Currently learning: **JavaScript** → Node.js → TypeScript
+- 🌱 Currently learning: **Python** → FastAPI → Django
 - 🎯 Goal: Backend Engineer → Senior → CTO
-- 🎓 FIAP Software Engineering — **starting Feb/2027**
+- 🎓 FIAP Computer Science — **starting Feb/2027**
 - 📖 Studying English daily — **A1 → B2**
 - 🎸 Guitar player when I'm not studying
 - 📍 São Paulo, Brazil
@@ -31,10 +31,10 @@
 
 **Learning next**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-black?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB)
+![FastAPI](https://img.shields.io/badge/FASTAPI-black?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=009688)
+![Django](https://img.shields.io/badge/DJANGO-black?style=for-the-badge&logo=django&logoColor=white&labelColor=092E20)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-black?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=4169E1)
 
 **Languages**
 
