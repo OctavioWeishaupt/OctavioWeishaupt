@@ -28,10 +28,11 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-black?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB)
+![PyCharm](https://img.shields.io/badge/PYCHARM-000000?style=for-the-badge&logo=pycharm&logoColor=white&labelColor=21D789)
 
 **Learning next**
 
-![Python](https://img.shields.io/badge/PYTHON-black?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB)
 ![FastAPI](https://img.shields.io/badge/FASTAPI-black?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=009688)
 ![Django](https://img.shields.io/badge/DJANGO-black?style=for-the-badge&logo=django&logoColor=white&labelColor=092E20)
 ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-black?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=4169E1)
