@@ -37,6 +37,18 @@
 ![Django](https://img.shields.io/badge/DJANGO-black?style=for-the-badge&logo=django&logoColor=white&labelColor=092E20)
 ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-black?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=4169E1)
 
+### 🚀 Projects
+
+**[Python CLI Calculator](https://github.com/OctavioWeishaupt/python-cli-calculator)**
+Terminal calculator with persistent history stored in a file, input validation,
+corrupted-line handling and a colored interface. Modular structure
+(`menu`, `inputs`, `history`, `ui`) built with a branch + Pull Request workflow.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Status](https://img.shields.io/badge/status-completed-16A34A?style=flat-square)
+
+---
+
 **Languages**
 
 ![English](https://img.shields.io/badge/English%20🇬🇧-A1%20→%20B2-7C3AED?style=for-the-badge&labelColor=1e1b4b)
