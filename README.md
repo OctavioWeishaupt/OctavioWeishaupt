@@ -37,15 +37,35 @@
 ![Django](https://img.shields.io/badge/DJANGO-black?style=for-the-badge&logo=django&logoColor=white&labelColor=092E20)
 ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-black?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=4169E1)
 
+---
+
 ### 🚀 Projects
 
-**[Python CLI Calculator](https://github.com/OctavioWeishaupt/python-cli-calculator)**
-Terminal calculator with persistent history stored in a file, input validation,
-corrupted-line handling and a colored interface. Modular structure
-(`menu`, `inputs`, `history`, `ui`) built with a branch + Pull Request workflow.
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Status](https://img.shields.io/badge/status-completed-16A34A?style=flat-square)
+<a href="https://github.com/OctavioWeishaupt/python-cli-calculator">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OctavioWeishaupt&repo=python-cli-calculator&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+**🧮 Python CLI Calculator** — *completed*
+
+- 💾 Persistent history stored in a text file (single source of truth)
+- 🛡️ Input validation and graceful handling of corrupted history lines
+- 🎨 Colored terminal interface with centralized styling
+- 🧱 Modular structure: `menu` · `inputs` · `history` · `ui`
+- 🔀 Built with a feature-branch + Pull Request workflow and semantic commits
+
+![Python](https://img.shields.io/badge/PYTHON-black?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Completed-16A34A?style=for-the-badge)
+
+<div align="center">
+
+*More projects coming soon 🌱*
+
+</div>
 
 ---
 
